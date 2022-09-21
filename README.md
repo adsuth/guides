@@ -1,2 +1,2 @@
-# guides
-Programming guide(s)
+# Programming Guides
+(Incomplete) guides to Java, Javascript, etc.
