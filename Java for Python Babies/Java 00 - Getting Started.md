@@ -43,13 +43,13 @@ Your project will now be created.
 
 ### Where to Find Your Source Code
 
-On the left-hand side, you should see an explorer view of your `Projects`. The little red cup![](C:\Users\Adam\AppData\Roaming\marktext\images\2022-07-30-18-50-46-image.png) is your **project**, and any child folders or files are part of that project. As I said, a lot of it is boilerplate and you should leave it alone.
+On the left-hand side, you should see an explorer view of your `Projects`. The little red cup is your **project**, and any child folders or files are part of that project. As I said, a lot of it is boilerplate and you should leave it alone.
 
-Right click the ![](C:\Users\Adam\AppData\Roaming\marktext\images\2022-07-30-18-50-30-image.png) and select `New > New Java Main` this will generate the entry point of the program, the **main class**.
+Right click the cup and select `New > New Java Main` this will generate the entry point of the program, the **main class**.
 
 #### Main Class
 
-The **main class** is the entry-point of your program. When you hit run ![](C:\Users\Adam\AppData\Roaming\marktext\images\2022-07-31-03-56-20-image.png), the code will begin executing **from the main method**.
+The **main class** is the entry-point of your program. When you hit run the green play button, the code will begin executing **from the main method**.
 
 ```java
 public class Main {

@@ -49,7 +49,7 @@ public class Light implements Turnable
 
 Note the `implements` keyword. That means
 
-Netbeans will warn you of any unimplemented methods with the  ![](C:\Users\Adam\AppData\Roaming\marktext\images\2022-07-31-03-10-16-image.png) icon. Click it and select `implement all abstract methods`.
+Netbeans will warn you of any unimplemented methods with the lightbulb icon with a red exclamation point. Click it and select `implement all abstract methods`.
 
 `@Override` just indicates that the method is being overridden from the interface. You can ignore it.
 
