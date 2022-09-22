@@ -131,15 +131,15 @@ Important note: you cannot use the `[]` syntax to get the specific index of an A
 
   *We'll call ArrayLists "lists"*
 
-  `ArrayList<Integer> arr = {1, 2, 3};`
+  `ArrayList<Integer> arr = { 1, 2, 3 };`
 
-| Method       | Example             | Result         | What it does                                     |
-| ------------ | ------------------- | -------------- | ------------------------------------------------ |
-| `add()`      | `arr.add( 4 )`      | `{1, 2, 3, 4}` | Adds new index to the end of the list            |
-| `remove()`   | `arr.remove( 2 )`   | `{1, 3}`       | Removes **first occurence** of given value       |
-| `contains()` | `arr.contains( 2 )` | `true`         | returns `true` if list contains given value      |
-| `indexOf()`  | `arr.indexOf( 2 )`  | `1`            | returns index of given value                     |
-| `size()`     | `arr.size()`        | `3`            | returns the length of the list (how many values) |
-| `get()`      | `arr.get( 1 )`      | `2`            | returns the value at given index                 |
-| `clear()`    | `arr.clear()`       | `{}`           | removes all values in list                       |
-| `toArray()`  | `arr.toArray()`     | `{1, 2, 3}`    | returns an array equivalent of the list          |
+| Method       | Example             | Result           | What it does                                     |
+| ------------ | ------------------- | ---------------- | ------------------------------------------------ |
+| `add()`      | `arr.add( 4 )`      | `{ 1, 2, 3, 4 }` | Adds new index to the end of the list            |
+| `remove()`   | `arr.remove( 2 )`   | `{ 1, 3 }`       | Removes **first occurence** of given value       |
+| `contains()` | `arr.contains( 2 )` | `true`           | returns `true` if list contains given value      |
+| `indexOf()`  | `arr.indexOf( 2 )`  | `1`              | returns index of given value                     |
+| `size()`     | `arr.size()`        | `3`              | returns the length of the list (how many values) |
+| `get()`      | `arr.get( 1 )`      | `2`              | returns the value at given index                 |
+| `clear()`    | `arr.clear()`       | `{}`             | removes all values in list                       |
+| `toArray()`  | `arr.toArray()`     | `{ 1, 2, 3 }`    | returns an array equivalent of the list          |
